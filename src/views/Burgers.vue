@@ -207,7 +207,7 @@ export default {
 
         this.existe='no';
         this.limpia();
-        this.mensaje="Hamburguesa NO Modificada";
+        this.mensaje="Hamburguesa Modificada";
         this.snack=true
 
         // const headers = {
